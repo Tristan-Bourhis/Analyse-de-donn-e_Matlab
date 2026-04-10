@@ -1,4 +1,4 @@
-# Analyse-de-donn-e_Matlab
+# Analyse-de-donnée_Matlab
 
 Collection de scripts MATLAB pour des travaux pratiques d'analyse de donnees:
 
